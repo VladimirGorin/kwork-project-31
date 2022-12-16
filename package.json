@@ -1,0 +1,18 @@
+{
+  "name": "vladimirgorin",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "vladimirgorin",
+    "NFT",
+    "bot"
+  ],
+  "author": "vladimirgorin",
+  "license": "ISC",
+  "dependencies": {
+    "aptos": "^1.3.17",
+    "console-stamp": "^3.1.0"
+  }
+}
