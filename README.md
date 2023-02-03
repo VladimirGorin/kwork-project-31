@@ -5,7 +5,7 @@
 Чтобы запустить этого бота, вам нужно иметь APT-монеты testnet.
   
 Кран: https://aptoslabs.com/testnet-faucet
-
+ 
 ## Настроить бота
 1) Загрузите ZIP и распакуйте его в папку
 2) Установите node.js: `https://nodejs.org/en/` (LTS)
